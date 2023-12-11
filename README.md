@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Marcelo Sosa</h1>
-<h3 align="center">I'm a web developer with a background in design who enjoys problem solving and learning new things.</h3>
-
+<h1>Hi 👋, I'm Marcelo Sosa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelos98&label=Profile%20views&color=0e75b6&style=flat" alt="marcelos98" /> </p>
+  
+  <h3>I'm a web developer with a background in design who enjoys problem solving and learning new things.</h3>
+
 
 - 🌱 I’m currently learning **Next.js & DDD**
 - 📫 How to reach me **sosamarcelo92@gmailom**
