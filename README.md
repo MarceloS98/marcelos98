@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Next.js & DDD**
-- 📫 How to reach me **sosamarcelo92@gmailom**
+- 📫 How to reach me **sosamarcelo92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
